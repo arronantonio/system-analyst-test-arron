@@ -1,4 +1,4 @@
-# system-analyst-test-arron
+# Arron Antonio
 System Analyst Test - PT Inovasi Daya Solusi
 
 📌 Functional Design
@@ -15,6 +15,10 @@ Sequence Diagram (SSD)
 
 Table Design & Description
 
-📌 SQL
+📌 DATABASE
 
 Berisi query untuk soal database
+
+📌 Visual Paradigm File
+
+Berisi seluruh design dalam 1 file .vpp apabila gambar di web kurang terlihat jelas
